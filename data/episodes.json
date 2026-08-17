@@ -1,1 +1,11 @@
 
+[
+  {
+    "id": 1,
+    "title": "Tunu and Kolpotoru",
+    "episode": 1,
+    "description": "An exciting magical adventure begins.",
+    "thumbnail": "assets/thumbnails/episode-01.jpg",
+    "youtube": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID"
+  }
+]
