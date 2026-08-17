@@ -28,7 +28,8 @@ Follow Kolpotoru Toons on:
 - YouTube https://youtube.com/@kolpotorutoons?si=QHrgORVH9ab58o7f
 - Facebook https://www.facebook.com/share/186UTqDkxq/
 - Instagram https://www.instagram.com/kolpotorutoons?igsh=MXc0Z2Iwd3I1Z3p4MA==&igsi=MXc0Z2Iwd3I1Z3p4MA==
-- X https://x.com/KolpotoruToons
+- X
+  https://x.com/KolpotoruToons
 
 Official profile links will be added here.
 
