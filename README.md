@@ -25,7 +25,7 @@ Platforms
 
 Follow Kolpotoru Toons on:
 
-- YouTube
+- YouTube https://youtube.com/@kolpotorutoons?si=QHrgORVH9ab58o7f
 - Facebook
 - Instagram
 - X
